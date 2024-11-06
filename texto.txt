@@ -1,3 +1,6 @@
 hola mundo
 El veloz murciélago hindú comía feliz cardillo y kiwi
 Práctica de Git
+Pasos para crear repo:
+- git init
+- git status
